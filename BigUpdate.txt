@@ -1,0 +1,5 @@
+Earlier this year, Dries Buytaert announced the Starshot Initiative, a bold vision for the future of Drupal. This initiative aims to enhance the ‘Drupal CMS’ by including a set of useful and common modules, offering an improved site-building experience for ambitious site builders.
+
+A key part of this initiative is the development of the Experience Builder, a new layout engine that will revolutionise the way pages are built with layouts and Paragraphs.
+
+As a Certified Drupal Supplier and a supporter of the Drupal Association, Morpht recognises the significance of the Starshot initiative. We've pledged financial support to the DA to help advance these groundbreaking developments, which we believe will have a lasting impact on the Drupal community.
